@@ -10,7 +10,7 @@ module.exports = function(grunt){
         },
           watch:{
               styles:{
-                  files:["less/*.less"], //Observa cualquier cambio en archivo less
+                  files:["css/less/*.less"], //Observa cualquier cambio en archivo less
                   tasks:["less"], //Ejecuta la compilación CSS
                   options:{
                     spawn: false
