@@ -1,0 +1,10 @@
+{
+  "name": "webtm",
+  "description": "page for webtm",
+  "main": "index.html",
+  "authors": [
+    "Jesus"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jesusvelasco93/webTM"
+}
