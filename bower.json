@@ -6,5 +6,8 @@
     "Jesus"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/jesusvelasco93/webTM"
+  "homepage": "https://github.com/jesusvelasco93/webTM",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
