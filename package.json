@@ -19,6 +19,7 @@
   "dependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-less": "^1.4.0",
-    "grunt-contrib-watch": "^1.0.0"
+    "grunt-contrib-watch": "^1.0.0",
+    "video.js": "^5.12.6"
   }
 }
