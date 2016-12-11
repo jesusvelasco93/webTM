@@ -1,0 +1,15 @@
+#mediaInspector {
+	display: none;
+}
+
+@media print {
+	#mediaInspector { z-index: 5 }
+}
+
+@media projection {
+	#mediaInspector { z-index: 6 }
+}
+
+@media screen {
+	#mediaInspector { z-index: 7 }
+}

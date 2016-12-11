@@ -3,15 +3,3 @@ node_modules/
 
 #bower_components
 bower_components/
-
-#server python
-server.py
-
-#style.css
-css/style.css
-
-#base de datos
-db/
-
-#media
-media
